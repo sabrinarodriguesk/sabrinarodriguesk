@@ -5,4 +5,4 @@
 sabrinarodriguesk/sabrinarodriguesk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Sa-Js SA-Ts Sa-React Sa-HTML Sa-CSS Sa-Python Sa-Csharp
+
