@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sabrina Rodriguesk
+- Olá, eu sou o Sabrina Rodrigues, Estudante de Análise e Desenvolvimento de Sistemas, e Desenvolvedora Front-end.
 
 
 <!---
